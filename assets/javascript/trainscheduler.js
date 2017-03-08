@@ -99,7 +99,7 @@ database.ref().on("child_added", function(childSnapshot, prevChildKey) {
 
     // Next Train
     var nextTrain = moment().add(tMinutesTillTrain, "minutes");
-    console.log("ARRIVAL TIME: " + nextTrain.format("hh:mm"));
+    console.log("ARRIVAL TIME: " + nextTrain.format("hh:mm");
 // Example Time Math
 // -----------------------------------------------------------------------------
 // Assume Employee start date of January 1, 2015
